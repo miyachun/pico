@@ -23,16 +23,16 @@ https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_ter
   
 https://docs.sunfounder.com/projects/umsk/en/latest/04_pi_pico/pico_lesson01_button.html  
 
-![image](https://github.com/miyachun/uch0807/blob/main/picoimg.png)
+![image](https://github.com/miyachun/raspberry-pico-win11/blob/main/picoimg.png)
 
 
-![image](https://github.com/miyachun/uch0807/blob/main/btnimg.png)  
+![image](https://github.com/miyachun/raspberry-pico-win11/blob/main/btnimg.png)  
 
 
 
-![image](https://github.com/miyachun/uch0807/blob/main/hc0501.jpg)  
+![image](https://github.com/miyachun/raspberry-pico-win11/blob/main/hc0501.jpg)  
 
-![image](https://github.com/miyachun/uch0807/blob/main/hc0502.jpg)  
+![image](https://github.com/miyachun/raspberry-pico-win11/blob/main/hc0502.jpg)  
 
 
 
