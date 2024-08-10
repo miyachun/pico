@@ -34,6 +34,8 @@ https://docs.sunfounder.com/projects/umsk/en/latest/04_pi_pico/pico_lesson01_but
 
 ![image](https://github.com/miyachun/raspberry-pico-win11/blob/main/hc0502.jpg)  
 
+![image](https://github.com/miyachun/raspberry-pico-win11/blob/main/led4.jpg)  
+
 
 
 
